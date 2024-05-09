@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/laptop.jpg";
 
-const imageAltText = "laptop bavkground";
+const imageAltText = "laptop background";
 
 /**
  * Project list
