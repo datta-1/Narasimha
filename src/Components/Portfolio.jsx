@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop bavkground";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Blog Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this Website i had written my experiences and work efforts of my works.",
+    url: "https://datta-1.github.io/narasimha-22.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Profile",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "These site helps to you view my full report",
+    url: "https://www.linkedin.com/in/narasimha-chunduru/",
   },
   {
-    title: "My Resume Site",
+    title: "My Temperature Coverter Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "it can covert the celsius to farenhit and farenheit to celsius",
+    url: "https://datta-1.github.io/temperature-22.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "UI/UX Content",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "this is my first ux website with creation ",
+    url: "https://datta-1.github.io/almond-22.com/",
   },
 ];
 
